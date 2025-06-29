@@ -1,5 +1,5 @@
 
  
- 1. Natural Language Processing with Disaster Tweets 
+ Natural Language Processing with Disaster Tweets 
 - [submission](https://www.kaggle.com/code/onurmarkxxx/notebook034bbf97c8?scriptVersionId=247953933) / 0.80049
 
